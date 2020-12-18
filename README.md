@@ -9,6 +9,11 @@ calmness) and provide live empathetic insights into community health. The power 
 shared emotions provides opportunities to discuss and agree on actions that need to be taken to 
 address the concerns of the public.
 
+## Video Presented to hackthecrisis.se
+
+
+[![CoSENSE Presentation to hackthecrisis.se](http://img.youtube.com/vi/OTQ0j6UcMb8/0.jpg)](https://www.youtube.com/watch?v=OTQ0j6UcMb8&rel=0&autoplay=1&modestbranding=1&start=1)
+
 ### Technical specification
 
 * Analytics
